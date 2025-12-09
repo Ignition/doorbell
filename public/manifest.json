@@ -1,0 +1,17 @@
+{
+  "name": "Doorbell",
+  "short_name": "Doorbell",
+  "description": "P2P browser doorbell - share a link and get notified when someone rings",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
